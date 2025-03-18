@@ -73,6 +73,10 @@ cd gts_client
 
 ### It looks like this
 
+#### Home Page
+
 ![alt text](image.png)
+
+#### Cart Page
 
 ![alt text](image-1.png)
