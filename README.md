@@ -64,11 +64,13 @@ src/
 
 ## 📦 Installation & Usage
 
-### **1️⃣ Clone the repository**
+### **1️⃣ Clone the repository and use the project**
 
 ```sh
 git clone https://github.com/BibekKoirala07/gts_client.git
 cd gts_client
+npm i
+npm run dev
 ```
 
 ### It looks like this
